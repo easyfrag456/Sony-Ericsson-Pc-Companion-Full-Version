@@ -243,4 +243,4 @@ This repository serves as the official landing page for Xperia Companion. The so
 **Get the most recent version of Xperia Companion today!**
 
 ---
-**Last updated:** 2026-10-02 20:18:32 UTC
+**Last updated:** 2026-10-03 00:07:03 UTC
